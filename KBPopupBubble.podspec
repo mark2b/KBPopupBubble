@@ -2,6 +2,7 @@ Pod::Spec.new do |s|
   s.name         = "KBPopupBubble"
   s.version      = "1.1"
   s.summary      = "Twitter-style popup bubbles with dynamic, animated pointer arrows"
+  s.author		 = {  "psholtz" => "https://github.com/psholtz/KBPopupBubble"} 
   
   s.homepage     = "https://github.com/mark2b/KBPopupBubble"
   s.license      = { :type => "MIT", :file => "LICENSE" }
